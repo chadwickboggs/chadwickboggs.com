@@ -1,137 +1,61 @@
-Chadwick Boggs, Software Developer
-chadwick.boggs@gmail.com
-http://chadwickboggs.com
+
 
 Overview
-  Writing enterprise server software leveraging Java, Reactive Extensions, Kotlin, Scala, SQL, Cassandra, Hadoop, HDFS, Bash, Cucumber, Fish Shell, Finagle, Google Protocol Buffers, OSGi, Mockito, Wiremock, JUnit, YAML, sometimes front-end stuff, is my daily pursuit. I know of but have not used Swift, HTTP/2. I've done some Android and iOS coding. I'm strong with Unix, Linux, tmux, Amazon Web Service, Puppet, and Zookeeper, Jetty, Tomcat, JBoss, Spring. I use IntelliJ IDEA, and Atlassian tools. Apple OS-X with Homebrew or MacPorts or Fink is good.
+Java/Kotlin/Scala/Groovy back-end micro-services, Unix, Reactive Extensions, NoSQL, SQL, Cassandra, Hadoop, Protocol Buffers, OSGi, Cucumber, Wiremock, Mockito, JUnit are some things I use writing enterprise software.  Containerization (Docker/Kubernetes/ECS), Cloud, Amazon Web Service, Puppet, and Zookeeper, Jetty, Tomcat, JBoss, Spring I know and use.
 
-  Employment-wise, I worked at Sun Microsystems, Inc. within software engineering and as a Java Consultant to their clients teaching architecture, methodology, and design and coding (RUP, UP, SunTone, Agile, patterns). I later worked at RedPrairie/JDA Software Group as a Senior Engineer doing OSGi SOA and leading one new product teams. I was a Senior Architect at Packexpo, Inc.. I plan to continue this stuff, writing and operating beautiful code, collaboratively realizing business value through software.
-
-Stories
-  RxJava
-    I used RxJava within server-side service code and around in inter-service calls on one item trading website.
-
-  Amazon Web Services (AWS)
-    I used AWS EC2, S3, VPC, SQS, SNS, and other services for the mission critical customer services micro-services and application integration at Charter Communications.
-
-  Cucumber
-    I used it for interaction between business, development, and testing at one company and prototyped it for another.
-
-  Kotlin
-    I have studied Kotlin and Reactive Extensions done with Kotlin and find it more productive in general than either Java or Scala.
-
-  Scala
-    I completed Coursera's Scala training worked with Scala code at Tendril as a developer.
-
-  Wiremock
-    I used Wiremock when I desired test coverage of my client API making and deserializing server responses.
-
-  Mockito
-    I've used Mockito and PowerMock to spice it up a bit.
-
-  Finagle
-    I used Finagle around inter-service calls on one application, but with the absence of stream processing, callback hell was endured, massively decreasing code readability, thereby maintainability.
-
-  Google Protocol Buffers
-    I used protobuf for inter-service communications on one project.
-
-  Puppet
-    I used Puppet at two companies and investigated at JDA.
-
-  Zookeeper
-    I used Zookeeper a couple of companies and investigated it for use with OSGi at JDA.
-
-  Nagios
-    I used Nagios to manage tens of hosts at Evolution Hosting.
-
-  OSGi
-    I designed and coded our first uses of it at JDA. Apache Karaf and Felix were our choices.
-
-  CXF
-    I prototyped CXF for use within OSGi at JDA.
-
-  Objective-C (iOS)
-    I was trained in iOS coding in Xcode and JetBrains' ReSharper at JDA as a developer.
-
-  Android
-    I trained myself on it and did a little prototyping of one iOS app I had written.
-
-  Atlassian Tools
-    I used most of Atlassian's tools at Tendril and JDA as well as their Intelli-J IDEA plugin with which pre-commit Crucible code review creation was facilitated.
-
-  Grails
-    I used grails to create an RDB, web CRUD prototype at JDA proving that SQL Server (relational) was faster than Neo4j (non-relational/nosql) for our generic system. Personally I also created a trading web site using Monet DB which enables users to post items with images and descriptions which they desired to trade. Users would matchup trades.
-
-  JEE
-    A decade ago I was trained in the precursors and in J2EE at Sun Microsystems and I designed systems for their customers using it while training their customers in it. I continued using it elsewhere, usually in JBoss, but also in WebLogic. I know of recent versions, but primarily have at work used Jetty and Tomcat alone, often reverse-proxied by Apache or Nginx.
-
-  JBoss
-    I have used JBoss professionally since version 2.x. Sun customers, Packexpo, Etilize, RedPrairie/JDA, and others using JMS/MoM, jBPM and merely as a finite state machine (FSM).
-
-  Jetty, Tomcat
-    I have used them at almost every employer, including JBoss Web, a variant of Tomcat/Catalina.
-
-  Unix, Linux FreeBSD/Darwin/OS-X
-    BeOS and GNU Operating System attempted to be completely asynchronous and concurrent, a noble goal, but found correctness and debugging overly daunting challenges. The winners to date remain traditionally programmed variants of Unix which continuously and steadily evolve over time reaching new platforms, accommodating new and changing hardware, and debugging and improving their own code.
-
-    Obviously, I am a Unix guy including having worked at Sun, been a consultant representing Sun, coded in Linux in Operating Systems as an undergraduate, and studied system administration under Evi Nemeth (an originator of the "sudo" command, author of the Unix System Administration Handbook, among many other unique achievements) at the University of Colorado, Boulder.
+I worked at Sun Microsystems, Inc. in software engineering, then in their Java Center as a Java Consultant to their clients (Wall Street, Silicon Valley) teaching architecture, methodology, software design, coding.  Later I worked at RedPrairie/JDA Software Group as an Engineer doing OSGi SOA, lead one new product project. I was a Senior Architect at Packexpo, Inc..
 
 Employment History
-  1/1/2018-4/1/2018 Software Engineer, Comcast, Corp.
-    Lead the updating of their corporate wide mission crtical software from Java 7, Hadoop to Java 10, Reactive Extension event orientation with Cucumber Behavior Driven Design acceptance test definition and execution, Docker containerization and Cabernets.
+1/1/2018-4/1/2018 Software Engineer, Comcast, Corp.
+Updated one Java system to Docker/Kubernetes, Java 11, Cucumber, Reactive Extensions, Git.
 
-  1/4/2016-12/31/2017 Software Engineer, Charter Communications.
-    Amazon Web Services hosted Java micro-services on Linux, Netflix OSS, Cassandra NoSQL, Message Oriented Middlewear (MOM) Enterprise Application Integration (EAI).
+1/4/2016-12/31/2017 Software Engineer, Charter Communications.
+Maintained 100+ Java micro-services, added new micro-services all in Amazon Web Services.
+Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring.
 
-  9/1/2014-2015 Software Engineer, Comcast, Corp.
-    Authored an RxJDBC drive using Message Oriented Middleware (MOM) / RabbitMQ inspired by Reactive Extension enabling full stack event oriented programming, redundancy, reliabilitym and horizontal scalability.
+9/1/2014-2015 Software Engineer, Comcast, Corp.
+Designed and built “RxJDBC,” a Reactive Extension, RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
 
-  2/1/2014-5/1/2014 Software Engineer, Tendril, Inc.
-    Back-end dev-ops programmer on SOA Finagle+Protobuf+Cloud components.
+2/1/2014-5/1/2014 Software Engineer, Tendril, Inc.
+Back-end dev-ops programmer on SOA Finagle+Protobuf+Cloud Java/Scala micro-services.
+Atlassian, Cucumber BDD, PostgreSQL, Hadoop, Hibernate, Scala, Intelli-J IDEA, Git.
 
-    Technologies:
-      Atlassian, Git, Cucumber BDD, PostgreSQL, Hadoop, Hibernate, Scala, Intelli-J IDEA.
+2/1/2010-12/31/2013 Senior Software Engineer, JDA Software Group, Inc. which merged with RedPrairie, Corp. formerly StorePerform, Inc.
+Project Lead for integration of iOS, Android mobile task system with legacy web-based system
+Tasks roughly are E-mail messages enhanced for distributing and tracking business actions.
+Customers included Fortune-500 companies. Scalability, performance were significant.
+Technologies: OSGi, Gradle, Git, and Sql Server, Git, Mercurial, Subversion, CVS.
+Extended and maintained legacy J2EE web-based task management system.
 
-  2/1/2010-12/31/2013 Senior Software Engineer, JDA Software Group, Inc. which merged with RedPrairie, Corp. formerly StorePerform, Inc.
-    Project Lead for integration of iOS, Android mobile task system with legacy web-based system.
-    Extended and maintained legacy J2EE web-based task management system.
-    Tasks roughly are E-mail messages enhanced for distributing and tracking business actions.
-    Customers included Fortune-500 companies. Scalability, performance were significant.
+2008-2009 Independent Software Development Consultant & Sun Java Consultant
+Extended and maintained a JEE merchandise inventory system with MySQL DB, Java, Spring.
+Customers: AmDocs, Etilize, Bell South, eBay, Frontier Airlines, Skyway
 
-    Technologies:
-      OSGi, Gradle, Git, and Sql Server.
+2007 Chief Operation Officer, Evolution Hosting, Inc.
+Viawest data center Linux servers for J2EE applications with Java management software, Java, Linux, VMware, Zen, Amazon Web Services.
+Large number of customers including Crocks, Wells Fargo, and Hunter Douglass, among others.
 
-  2008-2009 Independent Software Development Consultant & Sun Java Consultant
-    Extended and maintained a JEE merchandise inventory system with MySQL DB.
+2004-2007 Independent Software Development Consultant & Sun Java Consultant
+Created NIO client with could reach 100 Mb/s scale message rates.
+Created new web sites, Java.
+Consulted at eBay, Frontier Airlines, Bell South, Skyway representing Sun Microsystems, Inc.
 
-    Customers:
-      AmDocs, Etilize, Bell South, eBay, Frontier Airlines, Skyway
+2002-2004 Senior Software Architect, Packexpo, Inc.
+Created a reporting systems for packaging advertising services.
+Maintained packaging advertising web site.
+Technologies: JBoss, Linux, MySQL, Intelli-J, BeanShell, JSP, Lzop'ed data stream for large DB backups over NFS mounts, Java, Groovy.
 
-  2007 Chief Operation Officer, Evolution Hosting, Inc.
-    Viawest data center Linux servers for J2EE applications with Java management software.
-    Large number of customers including Crocks, Wells Fargo, and Hunter Douglass, among others.
+1999-2002 Java Consultant, Sun Java Center, Sun Microsystems, Inc.
+Represented Sun for RUP, UP, SunTone, OOA&D mentoring and J2EE coding, Java, SCCS, Teamware, RCS, Solaris, Java.
+Consulted at Citigroup, Vanguard Fiduciary Trust, Credit Suisse.
+Performed an Architecture Assessment recommending SOA and JEE which later was followed as advised.
 
-  2004-2007 Independent Software Development Consultant & Sun Java Consultant
-    Created NIO client with could reach 100 Mb/s scale message rates.
-    Created new web sites.
-    Consulted at eBay, Frontier Airlines, Bell South, Skyway representing Sun Microsystems, Inc.
-
-  2002-2004 Senior Software Architect, Packexpo, Inc.
-    Created a reporting systems for packaging advertising services.
-    Maintained packaging advertising web site.
-    Technologies: JBoss, Linux, MySQL, Intelli-J, BeanShell, JSP, Lzop'ed data stream for large DB backups over NFS mounts.
-
-  1999-2002 Java Consultant, Sun Java Center, Sun Microsystems, Inc.
-    Represented Sun for RUP, UP, SunTone, OOA&D mentoring and J2EE coding.
-    Consulted at Citigroup, Vanguard Fiduciary Trust, Credit Suisse.
-    Performed an Architecture Assessment recommending SOA and JEE which later was followed as advised.
-
-  1998-1999 Java Developer, Sun Educational Services, Sun Microsystems, Inc.
-    Created web-based and Swing computer assisted training systems.
-    Improved the performance of our custom pseudo-recursive-descent parser template engine by adding caching of parser results and by altering the parsing algorithm.
+1998-1999 Java Developer, Sun Educational Services, Sun Microsystems, Inc.
+Created web-based and Swing computer assisted training systems.
+Improved the performance of our custom pseudo-recursive-descent parser template engine by adding caching of parser results and by altering the parsing algorithm.
 
 Education, Certifications, Patents
- Sun Certified Java Developer
- Sun Certified Java Programmer
- Patent: #6907423 Search engine interface and method of controlling client searches
- B.S. Computer Science, University of Colorado at Boulder
+Sun Certified Java Developer
+Sun Certified Java Programmer
+Patent: #6907423 Search engine interface and method of controlling client searches
+B.S. Computer Science, University of Colorado at Boulder
