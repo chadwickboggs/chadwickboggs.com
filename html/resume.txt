@@ -7,18 +7,18 @@ I worked at Sun Microsystems, Inc. in software engineering, then in their Java C
 
 Employment History
 1/1/2018-4/1/2018 Software Engineer, Comcast, Corp.
-Updated one Java system to Docker/Kubernetes, Java 11, Cucumber, Reactive Extensions, Git.
+Updated one Java system to Docker/Kubernetes, Java 11, Cucumber, Reactive Extensions, Git, Wiremock, Mockito, JUnit.
 
 1/4/2016-12/31/2017 Software Engineer, Charter Communications.
 Maintained 100+ Java micro-services, added new micro-services all in Amazon Web Services.
-Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring.
+Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring, Wiremock, Mockito, Unit.
 
 9/1/2014-2015 Software Engineer, Comcast, Corp.
-Designed and built “RxJDBC,” a Reactive Extension, RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
+Designed and built “RxJDBC,” a Reactive Extension, RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git, Wiremock, Mockito, JUnit.
 
 2/1/2014-5/1/2014 Software Engineer, Tendril, Inc.
 Back-end dev-ops programmer on SOA Finagle+Protobuf+Cloud Java/Scala micro-services.
-Atlassian, Cucumber BDD, PostgreSQL, Hadoop, Hibernate, Scala, Intelli-J IDEA, Git.
+Atlassian, Cucumber BDD, PostgreSQL, Hadoop, Hibernate, Scala, Intelli-J IDEA, Git, Puppet.
 
 2/1/2010-12/31/2013 Senior Software Engineer, JDA Software Group, Inc. which merged with RedPrairie, Corp. formerly StorePerform, Inc.
 Project Lead for integration of iOS, Android mobile task system with legacy web-based system
