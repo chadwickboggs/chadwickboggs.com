@@ -1,5 +1,7 @@
-﻿Tiffany Timbric, Software Developer
-tiffany.timbric@gmail.com
+﻿Tiffany Timbric
+Software Programmer/Developer/Architect
+tiffany.timbric@gmail.com http://tiffanytimbric.com
+
 Overview
 Java/Kotlin/Scala/Groovy back-end micro-services, Unix, Reactive Extensions, NoSQL, SQL, Cassandra, Hadoop, Protocol Buffers, OSGi, Cucumber, Wiremock, Mockito, JUnit are some things I use writing enterprise software.  Containerization (Docker/Kubernetes/ECS), Cloud, Amazon Web Service, Puppet, and Zookeeper, Jetty, Tomcat, JBoss, Spring I know and use.
 
