@@ -10,17 +10,21 @@ I worked at Sun Microsystems, Inc. in software engineering, then in their Java C
 Employment History
 1/10/2019-10/1/2019 Software Engineer, Arris/Commscope
         ◦ Updated the video catalog and merchandising backend originally authored by Motorola for Bouygues Telecom, France.
+            ▪ Designed an implemented Java clients to external REST services.
+            ▪ Added configurable thread and resource instance pools.
+            ▪ Diagnosed and corrected memory and performance problems.
         ◦ Java EE, WildFly, GlassFish, WebSphere, REST, Wiremock, Mockito, Postman, Wireshark.
 
 1/1/2018-4/1/2018 Software Engineer, Comcast, Corp.
         ◦ Updated one Java system to Docker/Kubernetes, Java 11, Cucumber, Reactive Extensions, Git.
+            ▪ This improved code quality and maintainability beyond the direct features.
 
 1/4/2016-12/31/2017 Software Engineer, Charter Communications.
         ◦ Maintained 100+ Java micro-services, added new micro-services all in Amazon Web Services.
         ◦ Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring.
 
 9/1/2014-2015 Software Engineer, Comcast, Corp.
-        ◦ Designed and built “RxJDBC,” a Reactive Extension, RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
+        ◦ Designed and implemented “RxJDBC,” an asynchronous event oriented (Reactive Extension), RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
 
 2/1/2014-5/1/2014 Software Engineer, Tendril, Inc.
         ◦ Back-end dev-ops programmer on SOA Finagle+Protobuf+Cloud Java/Scala micro-services.
