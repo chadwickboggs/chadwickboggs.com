@@ -8,8 +8,10 @@ Enterprise backend software development, writing code, Java/Kotlin/Scala/Groovy,
 I worked at Sun Microsystems, Inc. in software development, then switched to their Java Center to consult out to their customer, mostly Wall Street, then silicon valley.  We lead architecture, methodology, as well as design, coding, texting.  Later I worked at StorePerform / RedPrairie / JDA Software Group as a lead and coder doing OSGi service oriented architecture (SOA).  I was a Senior Architect at Packexpo, Inc., but mostly I consult as a coder.
 
 Personal Coding Examples
-    • Finite State Machine Library – https://github.com/chadwickboggs/fsm
-    • Quantum Computer Resistant Encryption Utility (NTRU) – https://github.com/chadwickboggs/ntrutil
+    • Finite State Machine Library
+        ◦ https://github.com/chadwickboggs/fsm
+    • Quantum Computer Resistant Encryption Utility (NTRU)
+        ◦ https://github.com/chadwickboggs/ntrutil
 
 Employment History
 2020 – 5/2022 Software Developer, PayPal w/ TCS
