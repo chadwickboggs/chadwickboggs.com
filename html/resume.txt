@@ -9,7 +9,7 @@ I worked at Sun Microsystems, Inc. in software development, then switched to the
 
 Personal Coding Examples
     • Finite State Machine Library – https://github.com/chadwickboggs/fsm
-    • Quantum Computer Resistant Encryption Utility (NTRU) – https://sourceforge.net/projects/ntrutil
+    • Quantum Computer Resistant Encryption Utility (NTRU) – https://github.com/chadwickboggs/ntrutil
 
 Employment History
 2020 – 5/2022 Software Developer, PayPal w/ TCS
