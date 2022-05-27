@@ -10,7 +10,9 @@ I worked at Sun Microsystems, Inc. in software development, then switched to the
 Personal Coding Examples
     • Finite State Machine Library
         ◦ https://github.com/chadwickboggs/fsm
-    • Quantum Computer Resistant Encryption Utility (NTRU)
+    • Quantum Computer Resistant Encryption Utility (uses NTRU)
+        ◦ https://github.com/chadwickboggs/ntrutil
+    • XOR (single/shared key) Encryption Utility
         ◦ https://github.com/chadwickboggs/ntrutil
 
 Employment History
