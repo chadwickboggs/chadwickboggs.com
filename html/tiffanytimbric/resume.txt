@@ -2,7 +2,7 @@
 http://tiffanytimbric.com/resumes.html, tiffany.timbric@gmail.com
 
 Overview
-Enterprise backend software development, writing code, Java/Kotlin/Scala/Groovy, micro-services, Spring Boot, Spring Batch, cloud / AWS, Docker, Kuberneties, event driven design / Reactive eXtensions, relational database SQL, NoSQL, Cassandra, JMS, messaging, Hadoop, Google Protocol Buffers, OSGi, Cucumber / Gerkin, Wiremock, Mockito, Junit, Bash scripting, Linux / Unix, and many other things I have used when writing enterprise backend software, some of which includes Puppet, Zookeeper, Jetty, Tomcat, J-Boss, etc. having been coding commercial software since ~1990.
+I write code, enterprise backend usually web services, Java/Kotlin/Scala/Groovy, micro-services, Spring Boot, Spring Batch, cloud / AWS, Docker, Kuberneties, event driven design / Reactive eXtensions, relational database SQL, NoSQL, Cassandra, JMS, messaging, Hadoop, Google Protocol Buffers, OSGi, Cucumber / Gerkin, Wiremock, Mockito, Junit, Bash scripting, Linux / Unix, and many other things I have used when writing enterprise backend software, some of which includes Puppet, Zookeeper, Jetty, Tomcat, J-Boss, etc. having been coding commercial software since ~1990.
 
 I worked at Sun Microsystems, Inc. in software development, then switched to their Java Center to consult out to their customer, mostly Wall Street, then silicon valley.  We lead architecture, methodology, as well as design, coding, texting.  Later I worked at StorePerform / RedPrairie / JDA Software Group as a lead and coder doing OSGi service oriented architecture (SOA).  I was a Senior Architect at Packexpo, Inc., but mostly I consult as a coder.
 
