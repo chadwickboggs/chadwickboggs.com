@@ -21,13 +21,17 @@ Personal Coding Examples
 Employment History
 6/2022 – 1/2023 Senior Software Engineer, Global Healthcare Exchange (GHX)
     • Lead team authoring software connecting hospital ERP and medical equipment purchasing systems to GHX.
-    • Used AWS EC2, SQS, S3, and Lambdas, Java, Oracle.
-    • Web Services, FTP, sFTP, HTTP(S), JSON serialization/deserialization, SQL.
+    • Lead designs, reviewed all code changes, additions.
+    • Identified and corrected design flaws.
+    • Identified and corrected scalability bugs: connection pools, retries, AWS AZ failovers.
+    • Used AWS EC2, SQS, S3, and Lambdas, Java, Oracle (SQL).
+    • Implemented Web Services server-side and client-side, FTP, sFTP, HTTP(S), JSON serialization/deserialization, SQL.
     • Deployed in 100’s of customer data centers, two week release cadence w/ prod deploy.
 
 2020 – 5/2022 Software Developer, PayPal w/ TCS
     • Implemented direct deposit signup services in Spring Boot.
     • Implemented account bank migrations, bank change, for all PayPal accounts in Spring Batch.
+    • SQL, Filesystem I/O, AWS SMS, Web Services server-side and client-side.
     • Maintained and implemented feature enhancements to a batch merchant report generation system.
 
 2019 Software Engineer, Arris / Commscope
@@ -38,8 +42,8 @@ Employment History
     • Updated one Java system to Docker/Kubernetes, Java 11, Cucumber, Reactive Extensions, Git.
 
 2016 – 2017 Software Engineer, Charter Communications.
-    • Maintained 100+ Java micro-services, added new micro-services all in Amazon Web Services.
-    • Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring.
+    • Maintained 100+ Java micro-services, added new micro-services all in Amazon Web Services server-side and client-side.
+    • Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Hystrix, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring.
 
 9/2014 – 2015 Software Engineer, Comcast, Corp.
     • Designed and built event / Reactive eXtension (RxJDBC), RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
