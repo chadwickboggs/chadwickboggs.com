@@ -19,6 +19,10 @@ Personal Coding Examples
         ◦ XorCryptosystem, a Crypto plugin supporting XOR (single key) cryptography
             ▪ https://en.wikipedia.org/wiki/XOR_cipher
 
+Required Development Environment Tools
+    • MacBook Pro Laptop (Computer)
+    • JetBrains IntelliJ IDEA (IDE)
+
 Employment History
 6/2022 – 1/2023 Senior Software Engineer, Global Healthcare Exchange (GHX)
     • Lead team authoring software connecting hospital ERP and medical equipment purchasing systems to GHX.
