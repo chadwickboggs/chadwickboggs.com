@@ -1,29 +1,24 @@
-﻿Tiffany Timbric, Enterprise Backend Coder / Software Developer / Architect
-http://tiffanytimbric.com/resumes.html, tiffany.timbric@gmail.com
+﻿Tiffany Timbric (tiffanytimbric@gmail.com)
+Senior Enterprise Backend Software Developer / Architect
 
 Overview
-I write code, Enterprise Backend, usually Web Services, mostly Java/Kotlin/Scala, Microservices, JEE, Spring Boot, Spring Batch, Cloud / AWS, Docker / Kubernetes, Event-driven design / Reactive eXtensions, relationsal databases SQL, NoSQL, Cassandra, messaging / JMS, Hadoop, Google Protocol Buffers, OSGi, Cucumber / Gerkin, Wiremock, Mockito, JUnit, Bash scripting, Linux / Unix, and many other things like Puppet, Zookeeper, Jetty, Tomcat, JBoss, etc.
-
-I have been coding enterprise software since ~1990.
-
-I worked at Sun Microsystems, Inc. in software development, then switched to their Sun Java Center consulting group to help their customers, mostly Wall Street, but also Silicon Valley.  We instructed on system architecture, software architecture, software development methodology, and wrote code.  Later I worked at PayPal, Tendril, JDA Software Group, and others as a lead developer.
+I write code.  I am a senior software developer having designed and authored mission-critical systems at large companies across financial, transportation, telecommunications, e-commerce, defense, and technology domains. During and before college I developed software for multiple companies, my father's among them, and Sun Microsystems, Inc. as an intern. My foundation in Java matured at Sun Microsystems, Inc. where I provided technical expertise to their clients regarding unified process methodology, system architecture, and application design and implementation.
+Recent engagements were Amtrak, PayPal, Tendril, JDA Software Group, among others at which I assisted their teams in designing, planning, and developing primary applications.
+Through successive engagements at large enterprises I assisted them in increasing their business return on software development by identifying technical risks early, authoring prototypes rapidly, iteratively developing features, and frequently deploying to production, therein developing software in small, incremental, and plannable steps.
+Below listed are more details from some of my more interesting engagements.
 
 Personal Coding Examples
-    • Finite State Machine Library
-        ◦ https://github.com/chadwickboggs/fsm
-    • Crypto, a command-line tool supporting cryptosystem plugins
-            ▪ https://github.com/chadwickboggs/crypto
-        ◦ NtruCryptosystem, a Crypto plugin supporting NTRU (two key) cryptography
-            ▪ https://tbuktu.github.io/ntru
-        ◦ XorCryptosystem, a Crypto plugin supporting XOR (single key) cryptography
-            ▪ https://en.wikipedia.org/wiki/XOR_cipher
-
-Preferred Development Environment 
-    • MacBook Pro Laptop
-    • JetBrains IntelliJ IDEA
+    • Finite State Machine: https://github.com/chadwickboggs/fsm
+    • Cryptography: https://github.com/chadwickboggs/crypto
+    • Spring Boot: https://github.com/chadwickboggs/xchange
 
 Employment History
-6/2022 – 1/2023 Senior Software Engineer, Global Healthcare Exchange (GHX)
+2/2023 – 4/2024 Software Developer, Amtrak (consulting)
+    • Primary code author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts.  Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
+    • Features included the handling of and processing scale for all Amtrak customer purchases, the publishing of business metric, system metric for observability, error / failure alerting, meaningful trace, debug, info, warn, and error logging with security and PII protection.
+    • Technolgies included AWS (Cloud Formation, Lambda, Event Bridge, SQS, S3), Immutables.org Java Beans, REST, JSON + FasterXML Jackson, HttpClient, environment specific configuration, environment variables, Java 11, Maven.
+
+6/2022 – 1/2023 Senior Software Engineer, Global Healthcare Exchange
     • Lead team authoring software connecting hospital ERP and medical equipment purchasing systems to GHX.
     • Lead design sessions and reviewed all code changes and new features.
     • Identified and corrected design flaws.
@@ -32,24 +27,24 @@ Employment History
     • Implemented Web Services, both server-side and client-side, FTP, sFTP, HTTP(S), JSON serialization/deserialization, SQL.
     • Deployed in 100’s of customers’ data centers, two-week production release cadence.
 
-2020 – 5/2022 Software Developer, PayPal w/ TCS
+2020 – 5/2022 Software Developer, PayPal w/ TCS (consuling)
     • Implemented direct-deposit signup services in Spring Boot.
     • Implemented account bank migrations, bank change, for all PayPal accounts in Spring Batch.
     • SQL, Filesystem I/O, AWS SMS, Web Services server-side and client-side.
     • Maintained and implemented feature enhancements to a batch merchant report generation system.
 
-2019 Software Engineer, Arris / Commscope
+2019 Software Engineer, Arris / Commscope (consuling)
     • Updated the video catalog and merchandising backend originally authored by Motorola for Bouygues Telecom, France.
     • Java EE, WildFly, GlassFish, WebSphere, REST, Wiremock, Mockito, Postman, Wireshark.
 
-2018 – 4/2018 Software Engineer, Comcast Corporation
+2018 – 4/2018 Software Engineer, Comcast Corporation (consuling)
     • Updated Java product to use Docker and Kubernetes, Java 11, Cucumber, Reactive Extensions, Git.
 
-2016 – 2017 Software Engineer, Charter Communications
+2016 – 2017 Software Engineer, Charter Communications (consuling)
     • Maintained hundreds of Java microservices, added new microservices all in Amazon Web Services server-side and client-side.
     • Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Hystrix, Java 8, SQS, SNS, S3, EC2, ActiveMQ, Mongo, Git, Spring.
 
-9/2014 – 2015 Software Engineer, Comcast Corporation
+9/2014 – 2015 Software Engineer, Comcast Corporation (consuling)
     • Designed and built event / Reactive eXtension (RxJDBC), RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
 
 2014 – 5/2014 Software Engineer, Tendril Inc.
@@ -80,7 +75,17 @@ Employment History
     • Maintained packaging advertising web site.
     • Technologies: JBoss, Linux, MySQL, IntelliJ, BeanShell, JSP, Lzop'ed data stream for large DB backups over NFS mounts, Java, Groovy.
 
+1999 - 2002 Java Consultant, Sun Java Center, Sun Microsystems, Inc.
+    • Represented Sun for RUP, UP, SunTone, OOA&D mentoring and J2EE coding, Java, SCCS, Teamware, RCS, Solaris, Java.
+    • Consulted at Citigroup, Vanguard Fiduciary Trust, Credit Suisse.
+    • Performed an Architecture Assessment recommending SOA and JEE which later was followed as advised.
+
+1998 - 1999 Java Developer, Sun Educational Services, Sun Microsystems, Inc.
+    • Created web-based and Swing computer assisted training systems.
+    • Improved the performance of our custom pseudo-recursive-descent parser template engine by adding caching of parser results and by altering the parsing algorithm.
+
 Education, Certifications, Patents
+    • AWS Certified Developer (in progress)
     • Certified Java Developer
     • Certified Java Programmer
     • Patent: #6907423 Search engine interface and method of controlling client searches
