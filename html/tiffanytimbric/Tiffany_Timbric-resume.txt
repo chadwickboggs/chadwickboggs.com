@@ -4,14 +4,16 @@ Enterprise Backend Software Developer
 Overview
 A senior enterprise backend software developer passionate about great code.  I write mission-critical system backends across many business domains, financial, transportation, telecommunications, e-commerce, defense, etc.  Starting at Sun Microsystems, Inc. I assisted their clients in system architectura and methodology, but especially in JEE code quality.
 Recently atAmtrak, PayPal, Tendril, Charter Communications, JDA Software Group, I coded Web Services and large data processing optimizing read response time and scalability (#of concurrent requests/second).
-Below listed are more details from some of my more interesting engagements.
 
-Personal Coding Examples
+Enterprise Software Architecture
+    • The C4 Model – Context, Containers, Components, Code: https://c4model.com
+
+Coding Examples
     • Finite State Machine: https://github.com/chadwickboggs/fsm
     • Cryptography: https://github.com/chadwickboggs/crypto
     • Spring Boot: https://github.com/chadwickboggs/xchange
 
-Employment History
+Professional Experience
 2/2023 – 4/2024 Software Developer, Amtrak (consulting)
     • Primary code author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts.  Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
     • Features included the handling of and processing scale for all Amtrak customer purchases, the publishing of business metric, system metric for observability, error / failure alerting, meaningful trace, debug, info, warn, and error logging with security and PII protection.
