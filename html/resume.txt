@@ -29,60 +29,60 @@ Professional Experience
     • Web Services, FTP, sFTP, HTTP(S), JSON serialization/deserialization, SQL.
     • Deployed in 100’s of customer data centers, two week release cadence w/ prod deploy.
 
-2020 – 5/2022 Software Developer, PayPal w/ TCS (consuling)
+2/2020 – 5/2022 Software Developer, PayPal w/ TCS (consulting)
     • Implemented direct deposit signup services in Spring Boot.
     • Implemented account bank migrations, bank change, for all PayPal accounts in Spring Batch.
 Maintained and implemented feature enhancements to a batch merchant report generation system.
 
-1/10/2019-10/1/2019 Software Engineer, Arris/Commscope (consuling)
+1/2019 – 10/2019 Software Engineer, Arris/Commscope (consulting)
         ◦ Updated the video catalog and merchandising backend originally authored by Motorola for Bouygues Telecom, France.
         ◦ Java EE, WildFly, GlassFish, WebSphere, REST, Wiremock, Mockito, Postman, Wireshark.
 
-1/1/2018-4/1/2018 Software Engineer, Comcast, Corp. (consuling)
+1/2018 – 4/2018 Software Engineer, Comcast, Corp. (consulting)
         ◦ Updated one Java system to Docker/Kubernetes, Java 11, Cucumber, Reactive Extensions, Git.
 
-1/4/2016-12/31/2017 Software Engineer, Charter Communications. (consuling)
+1/2016 – 12/2017 Software Engineer, Charter Communications. (consulting)
         ◦ Maintained 100+ Java micro-services, added new micro-services all in Amazon Web Services.
         ◦ Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring.
 
-9/1/2014-2015 Software Engineer, Comcast, Corp. (consuling)
+9/2014 – 2/2015 Software Engineer, Comcast, Corp. (consulting)
         ◦ Designed and built “RxJDBC,” a Reactive Extension, RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
 
-2/1/2014-5/1/2014 Software Engineer, Tendril, Inc.
+2/2014 – 5/2014 Software Engineer, Tendril, Inc.
         ◦ Back-end dev-ops programmer on SOA Finagle+Protobuf+Cloud Java/Scala micro-services.
         ◦ Atlassian, Cucumber BDD, PostgreSQL, Hadoop, Hibernate, Scala, Intelli-J IDEA, Git.
 
-2/1/2010-12/31/2013 Senior Software Engineer, JDA Software Group, Inc. which merged with RedPrairie, Corp. formerly StorePerform, Inc.
+2/2010 – 12/2013 Senior Software Engineer, JDA Software Group, Inc. which merged with RedPrairie, Corp. formerly StorePerform, Inc.
         ◦ Project Lead for integration of iOS, Android mobile task system with legacy web-based system
         ◦ Tasks roughly are E-mail messages enhanced for distributing and tracking business actions.
         ◦ Customers included Fortune-500 companies. Scalability, performance were significant.
         ◦ Technologies: OSGi, Gradle, Git, and Sql Server, Git, Mercurial, Subversion, CVS.
         ◦ Extended and maintained legacy J2EE web-based task management system.
 
-2008-2009 Independent Software Development Consultant & Sun Java Consultant
+1/2008 – 12/2009 Independent Software Development Consultant & Sun Java Consultant
         ◦ Extended and maintained a JEE merchandise inventory system with MySQL DB, Java, Spring.
         ◦ Customers: AmDocs, Etilize, Bell South, eBay, Frontier Airlines, Skyway
 
-2007 Chief Operation Officer, Evolution Hosting, Inc.
+2/2007 – 12/2007 Chief Operation Officer, Evolution Hosting, Inc.
         ◦ Viawest data center Linux servers for J2EE applications with Java management software, Java, Linux, VMware, Zen, Amazon Web Services.
         ◦ Large number of customers including Crocks, Wells Fargo, and Hunter Douglass, among others.
 
-2004-2007 Independent Software Development Consultant & Sun Java Consultant
+2/2004 – 1/2007 Independent Software Development Consultant & Sun Java Consultant
         ◦ Created NIO client with could reach 100 Mb/s scale message rates.
         ◦ Created new web sites, Java.
         ◦ Consulted at eBay, Frontier Airlines, Bell South, Skyway representing Sun Microsystems, Inc.
 
-2002-2004 Senior Software Architect, Packexpo, Inc.
+2/2002 – 2/2004 Senior Software Architect, Pack-expo, Inc.
         ◦ Created a reporting systems for packaging advertising services.
         ◦ Maintained packaging advertising web site.
         ◦ Technologies: JBoss, Linux, MySQL, Intelli-J, BeanShell, JSP, Lzop'ed data stream for large DB backups over NFS mounts, Java, Groovy.
 
-1999-2002 Java Consultant, Sun Java Center, Sun Microsystems, Inc.
+2/1999 – 1/2002 Java Consulting, Sun Java Center, Sun Microsystems, Inc.
         ◦ Represented Sun for RUP, UP, SunTone, OOA&D mentoring and J2EE coding, Java, SCCS, Teamware, RCS, Solaris, Java.
         ◦ Consulted at Citigroup, Vanguard Fiduciary Trust, Credit Suisse.
         ◦ Performed an Architecture Assessment recommending SOA and JEE which later was followed as advised.
 
-1998-1999 Java Developer, Sun Educational Services, Sun Microsystems, Inc.
+4/1998 – 1/1999 Java Developer, Sun Educational Services, Sun Microsystems, Inc.
         ◦ Created web-based and Swing computer assisted training systems.
         ◦ Improved the performance of our custom pseudo-recursive-descent parser template engine by adding caching of parser results and by altering the parsing algorithm.
 
