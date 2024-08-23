@@ -1,5 +1,5 @@
 ﻿Tiffany Timbric (tiffanytimbric@gmail.com)
-Enterprise Backend Software Developer
+Enterprise Backend Software Engineer
 
 Overview
 A senior enterprise backend software developer passionate about great code.  I write mission-critical system backends across many business domains, financial, transportation, telecommunications, e-commerce, defense, etc.  Starting at Sun Microsystems, Inc. I assisted their clients in system architectura and methodology, but especially in JEE code quality.
