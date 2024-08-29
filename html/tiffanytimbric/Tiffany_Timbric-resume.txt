@@ -53,7 +53,8 @@ IOS
 Adroid                  1     1       0
 ECMA Script, Javascript 20    15      5
 Unix, Linux             30    5       25
-Amber, Bash, Zsh        20    12      8
+Amber, Bash, Zsh, Tmux,
+Mosh                    20    12      8
 Git, Svn, Mercurial,
 CVS, SSCS               20
 Agile, Scaled Agile, UP,
