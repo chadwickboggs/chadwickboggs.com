@@ -164,6 +164,83 @@
 	<!-- Body -->
 
 	<blockquote><blockquote>
+		<p>8/29/2024</p>
+		<p>
+			Dear Fellow Hearts &lt;curtsy&gt;,<br>
+		<blockquote>
+			<b>A Recent Documentation Section I Authored For A Customer On-The-Spot</b>
+			(not perfect, but not that bad for a rapid brain dump)
+<pre>
+2.2.1 Resiliency
+Resiliency refers to the system’s ability to survive internal and
+external hardware and software performance degradations and outages. 
+Individual components, pieces, of a system may be analyzed individually.
+
+Our systems dataflow flows through two paths, one using AWS Simple
+Queuing Service (SQS), and the other using AWS Simple Storage Service
+(S3).
+
+Happy Path Dataflow, SQS:
+    Legacy System -> SQS -> AWS Lambda -> Outbound E-mail or Errors to S3
+
+Error Path Dataflow, S3:
+    cron job read of Errors on S3 -> SQS (retrying happy path above)
+
+If SQS is down, files get written to S3.  If the AWS Lambda’s processing
+fails for any reason, files get written to S3.  If S3 is down, SQS
+messages move to the SQS Dead Letter Queue.
+
+At any time S3 and/or SQS Dead Letter Queue messages may be published back
+into SQS for a re-processing attempt to occur.
+
+#### 2.2.1.1 Resiliency to Remote Call Failures
+There are many potential causes for non-success results from calls to
+external systems.  One of these is request time out.  An external system
+may push-back, immediately respond that it is unable to accept the request, or
+the client’s patience may be exceeded resulting in the client abandoning the
+request.  The remote system may be down.  The network may be down. 
+The response may be unrecognizable, fail validation.
+
+Some types of remote call failures, hostname resolution, for example,
+may mean an immediate retry attempt is unlikely to succeed, while others,
+request rate limit exceeded, for example, may mean a retry attempt might
+succeed.
+
+System resilience involve the tolerance and handling of both intermittent
+and of permeant failures.  Regarding remote calls, intermittent failures
+occur frequently, permanent failure occasionally.
+
+#### 2.2.1.2 Resiliency Techniques for Intermittent Failures
+All remote calls should be buttressed by a bulkhead.  Remote call
+bulkheads include the following:
+  · Request Timeout
+  · Rate Throttle
+  · Circuit Breaker – (described online)
+  · Retry
+
+Sometimes request rate throttle is achieved by configuring the retries to
+have an exponentially increasing time delay between them.
+
+These techniques reduce the number of intermittent failures which become
+permanent failures.
+
+#### 2.2.1.3 Resiliency Techniques for Permanent Failures
+Some intermittent failures become permanent failures when their duration
+exceeds the retry interval.  These may demand no action other than
+processing being re-attempted after additional delay.
+
+Some permanent failures require configuration or software change before
+re-attempts become possible.  Either way, data loss may be desired to be
+avoided when permanent failures occur.  Our system's AWS Lambda must
+avoid data loss during permanent failure and facilitate re-processing.
+</pre>
+		</blockquote>
+		<br><p>
+		Love and Kisses &lt;curtsy&gt;,<br>
+		<br>
+		Tiffany Timbric.<br>
+
+		<hr noshade size=1>
 		<p>8/27/2024</p>
 		<p>
 			Dear Fellow Hearts &lt;curtsy&gt;,<br>
