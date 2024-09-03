@@ -1,69 +1,66 @@
-﻿Tiffany Timbric (tiffanytimbric@gmail.com)
-Enterprise Backend Software Engineer
+﻿Tiffany Timbric (tiffany.timbric@gmail.com)
+Enterprise Backend Software Developer (code author)
+
+Lessons Learned → Recently + Over Time
+    • Be Nice → Each team member offers irreplaceable and unique value.
+    • Be Excited → Each team member enjoys solving problems.
+    • Be Supportive → Team Output >= sum(Individual Outputs)
+    • Be Professional → Team members are collegues.
+    • Be Responsible → Teams collaborate to synchronize deliveries.
+    • Be Customer Focussed → Customer joy and satisfaction rules the day.
+    • Be Business Minded → Executive officers conduct the orchstra.
 
 Skill Matrix (on-the-job)
-Skill                   Years Create  Enhance Perform   Scale  Resilient
-Design Patterns         20    15      5
-Microservices           10    9       1       < 500 ms  10e+6  99.9%
-Amazon Web Services     15    9       7                 10e+6
+Skill                                         Total → New + Old
+Design Patterns                               20 → 15 + 5
+Microservices                                 10 → 9 + 1
+Amazon Web Services                           15 → 9 + 6
 Spring Boot
-(REST, SOAP)            4     3       1       < 500 ms  10e+6  99.0%
-Test Driven Development 20    15      5
-Behavior Driven Design  2     2       0
-Document Driven Design  10    8       2
+(REST, SOAP)                                  4 → 3 + 1
+Test Driven Development                       20 → 15 + 5
+Behavior Driven Design                        2 → 2 + 0
+Document Driven Design                        10 → 8 + 2
 Unit Testing
-(Junit, Mockito,
- Gerkin, Cucumber,
- Wiremock)              20    15      5
-Postman, Curl, Httpie   15    12      3
-Github, Bitbucket       15    12      3
-Nexus, Artifactory      15    12      3
-Single Sign-On          4     2       2
+(Junit, Mockito, Gerkin, Cucumber, Wiremock)  20 → 15 + 5
+Postman, Curl, Httpie, `jq`                   15 → 12 + 3
+Github, Bitbucket                             15 → 12 + 3
+Nexus, Artifactory                            15 → 12 + 3
+Single Sign-On                                4 → 2 + 2
 Open Source Gateway Initiative
-(OSGi)                  2     1       0       < 500 ms  10e+5  99.0%
-Reactive eXtensions     10    8       2
-Network Bulkheads       10    8       2       < 500 ms  10e+5
-JSON, YAML, XML         20    15      5
-JEE / J2EE              20    15      5
+(OSGi)                                        3 → 2 + 1
+Reactive eXtensions                           10 → 8 + 2
+Network Bulkheads                             10 → 8 + 2
+JSON, YAML, XML                               20 → 15 + 5
+JEE / J2EE                                    20 → 15 + 5
 Relational Database / SQL
-(Oracle,
- PostgreSQL,
- Maria/MySQL)           25    15      5
+(Oracle, PostgreSQL, Maria/MySQL)             25 → 15 + 5
 NoSQL
-(Cassandra, Mongo)      10    8       2
+(Cassandra, Mongo)                            10 → 8 + 2
 Messaging
-(SQS,
- Rabbit,
- Active-MQ)             20    15      5
+(SQS, Rabbit, Active-MQ)                      20 → 15 + 5
 Encryption
-(OAuth,H2-MAC, NTRU,
- XOR)                   20    15      5
+(OAuth, H2-MAC, NTRU, XOR)                    20 → 15 + 5
 TCP, UDP, Networking
-(Wireshark, TCP Buffer) 20
+(Wireshark, TCP Buffer)                       21 → 20 + 1
 RPC
-(Finagle, Protobuf, RMI,
- CORBA)                 20    15      5
-Kotlin                  7     6       1
-Scala                   3     3       0
-Java 11+                6     5       1
-Java 8                  10    8       2
-Java pre-8              15    12      3
+(Finagle, Protobuf, RMI, CORBA)               20 → 15 + 5
+Kotlin                                        7 → 6 + 1
+Scala                                         3 → 3 + 0
+Java 11+                                      6 → 5 + 1
+Java 8                                        10 → 8 + 2
+Java pre-8                                    15 → 12 + 3
 IOS
-(Objective C)           1     1       0
-Adroid                  1     1       0
-ECMA Script, Javascript 20    15      5
-Unix, Linux             30    5       25
-Amber, Bash, Zsh, Tmux,
-Mosh                    20    12      8
-Git, Svn, Mercurial,
-CVS, SSCS               20
-Agile, Scaled Agile, UP,
-RAP
-(UML)                   15
-Jenkins, Bamboo,
-Pipelines               12
+(Objective C)                                 1 → 1 + 0
+Adroid                                        1 → 1 + 0
+ECMA Script, Javascript                       20 → 15 + 5
+Unix, Linux                                   30 → 5 + 25
+Amber, Bash, Zsh, Tmux, Mosh                  20 → 12 + 8
+Git, Svn, Mercurial, CVS, SSCS                20
+Agile, Scaled Agile, UP, RAP
+(UML)                                         15
+Jenkins, Bamboo, Pipelines                    12
 Atlassian Tools
-(Jira, Confluence)      12
+(Jira, Confluence)                            12
 
 Behavior / Personality
     • Humble
@@ -94,6 +91,7 @@ Professional Experience
     • Primary code author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts.  Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
     • Features included the handling of and processing scale for all Amtrak customer purchases, the publishing of business metric, system metric for observability, error / failure alerting, meaningful trace, debug, info, warn, and error logging with security and PII protection.
     • Technolgies included AWS (Cloud Formation, Lambda, Event Bridge, SQS, S3), Immutables.org Java Beans, REST, JSON + FasterXML Jackson, HttpClient, environment specific configuration, environment variables, Java 11, Maven.
+
 6/2022 – 1/2023 Senior Software Engineer, Global Healthcare Exchange
     • Lead team authoring software connecting hospital ERP and medical equipment purchasing systems to GHX.
     • Lead design sessions and reviewed all code changes and new features.
@@ -102,47 +100,60 @@ Professional Experience
     • Used AWS EC2, SQS, S3, and Lambda, Java, Oracle (SQL).
     • Implemented Web Services, both server-side and client-side, FTP, sFTP, HTTP(S), JSON serialization/deserialization, SQL.
     • Deployed in 100’s of customers’ data centers, two-week production release cadence.
+
 2/2020 – 5/2022 Software Developer, PayPal w/ TCS (consulting)
     • Implemented direct-deposit signup services in Spring Boot.
     • Implemented account bank migrations, bank change, for all PayPal accounts in Spring Batch.
     • SQL, Filesystem I/O, AWS SMS, Web Services server-side and client-side.
     • Maintained and implemented feature enhancements to a batch merchant report generation system.
+
 1/2019 – 10/2019 Software Engineer, Arris / Commscope (consulting)
     • Updated the video catalog and merchandising backend originally authored by Motorola for Bouygues Telecom, France.
     • Java EE, WildFly, GlassFish, WebSphere, REST, Wiremock, Mockito, Postman, Wireshark.
+
 1/2018 – 4/2018 Software Engineer, Comcast Corporation (consulting)
     • Updated Java product to use Docker and Kubernetes, Java 11, Cucumber, Reactive Extensions, Git.
+
 1/2016 – 12/2017 Software Engineer, Charter Communications (consulting)
     • Maintained hundreds of Java microservices, added new microservices all in Amazon Web Services server-side and client-side.
     • Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Hystrix, Java 8, SQS, SNS, S3, EC2, ActiveMQ, Mongo, Git, Spring.
+
 9/2014 – 2/2015 Software Engineer, Comcast Corporation (consulting)
     • Designed and built event / Reactive eXtension (RxJDBC), RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
+
 2/2014 – 5/2014 Software Engineer, Tendril Inc.
     • Backend / DevOps Engineer on SOA Finagle+Protobuf+Cloud Java/Scala microservices.
     • Atlassian, Cucumber BDD, PostgreSQL, Hadoop, Hibernate, Scala, IntelliJ IDEA, Git.
+
 2/2010 – 12/2013 Senior Software Engineer, JDA Software / RedPrairie / StorePerform
     • Project Lead for integration of iOS/Android mobile task system with legacy web-based system.
     • Extended and maintained legacy J2EE web-based task management system.
     • Customers included Fortune 500 companies. Scalability and performance were paramount.
     • Technologies: OSGi, Gradle, and SQL Server, Git, Mercurial, Subversion, CVS.
+
 1/2008 – 12/2009 Independent Software Development Consultant
     • Extended and maintained a JEE merchandise inventory system with MySQL DB, Java, Spring.
     • Customers: AmDocs, Etilize, Bell South, eBay, Frontier Airlines, Skyway.
+
 2/2007 – 12/2007 Chief Operation Officer, Evolution Hosting, Inc.
     • ViaWest data center Linux servers for J2EE applications with Java management software, Java, Linux, VMware, Zen, Amazon Web Services.
     • Large number of customers including Crocs, Wells Fargo, and Hunter Douglas.
+
 2/2004 – 1/2007 Independent Software Development & Java Consultant
     • Created NIO client with could reach 100 Mb/s scale message rates.
     • Created new web sites, Java.
     • Consulted at eBay, Frontier Airlines, Bell South, Skyway representing Sun Microsystems, Inc.
+
 2/2002 – 2/2004 Senior Software Architect, Pack-expo, Inc.
     • Created a reporting system for packaging advertising services.
     • Maintained packaging advertising web site.
     • Technologies: JBoss, Linux, MySQL, IntelliJ, BeanShell, JSP, Lzop'ed data stream for large DB backups over NFS mounts, Java, Groovy.
+
 2/1999 - 1/2002 Java Consulting, Sun Java Center, Sun Microsystems, Inc.
     • Represented Sun for RUP, UP, SunTone, OOA&D mentoring and J2EE coding, Java, SCCS, Teamware, RCS, Solaris, Java.
     • Consulted at Citigroup, Vanguard Fiduciary Trust, Credit Suisse.
     • Performed an Architecture Assessment recommending SOA and JEE which later was followed as advised.
+
 4/1998 – 1/1999 Java Developer, Sun Educational Services, Sun Microsystems, Inc.
     • Created web-based and Swing computer assisted training systems.
     • Improved the performance of our custom pseudo-recursive-descent parser template engine by adding caching of parser results and by altering the parsing algorithm.
@@ -154,3 +165,4 @@ Education, Certifications, Patents
     • Patent: #6907423 Search engine interface and method of controlling client searches
     • B.S. Computer Science, University of Colorado at Boulder
     • Attended the United States Military Academy at West Point
+
