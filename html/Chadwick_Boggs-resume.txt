@@ -77,14 +77,18 @@ Behavior / Personality
 Overview
 A senior enterprise backend software developer passionate about great code.  I write mission-critical system backends across many business domains, financial, transportation, telecommunications, e-commerce, defense, etc.  Starting at Sun Microsystems, Inc. I assisted their clients in system architectura and methodology, but especially in JEE code quality.
 Recently atAmtrak, PayPal, Tendril, Charter Communications, JDA Software Group, I coded Web Services and large data processing optimizing read response time and scalability (#of concurrent requests/second).
+
 Profile Image
     • Tiffany Timbric: https://tiffanytimbric.com/images/profile_image.jpg
+
 Software Architecture
     • The C4 Model – Context, Containers, Components, Code: https://c4model.com
+
 Code Examples
     • Finite State Machine: https://github.com/chadwickboggs/fsm
     • Cryptography: https://github.com/chadwickboggs/crypto
     • Spring Boot: https://github.com/chadwickboggs/xchange
+
 Professional Experience
 2/2023 – 4/2024 Software Developer, Amtrak (consulting)
     • Primary code author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts.  Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
@@ -139,6 +143,7 @@ Professional Experience
 4/1998 – 1/1999 Java Developer, Sun Educational Services, Sun Microsystems, Inc.
         ◦ Created web-based and Swing computer assisted training systems.
         ◦ Improved the performance of our custom pseudo-recursive-descent parser template engine by adding caching of parser results and by altering the parsing algorithm.
+
 Education, Certifications, Patents
         ◦ AWS Certified Developer (in progress)
         ◦ Sun Certified Java Developer
@@ -146,4 +151,3 @@ Education, Certifications, Patents
         ◦ Patent: #6907423 Search engine interface and method of controlling client searches
         ◦ B.S. Computer Science, University of Colorado at Boulder
         ◦ Attended the United States Military Academy at West Point
-
