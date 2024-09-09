@@ -1,66 +1,110 @@
 ﻿Chadwick Timbric (chadwick.timbric@gmail.com)
-Enterprise Backend Software Developer (code author)
+Enterprise Backend Software Developer (computer programmer / code author)
+
+Introduction
+    • Is Chad a skilled programmer? → Yes
+    • Is he a nice person? → Yes
+    • Does his code work? → Yes
+    • Do I want to hire him? → Yes
 
 Lessons Learned → Recently + Over Time
     • Be Nice → Each team member offers irreplaceable and unique value.
     • Be Excited → Each team member enjoys solving problems.
     • Be Supportive → Team Output >= sum(Individual Outputs)
-    • Be Professional → Team members are collegues.
+    • Be Professional → Team members are colleagues.
     • Be Responsible → Teams collaborate to synchronize deliveries.
     • Be Customer Focussed → Customer joy and satisfaction rules the day.
     • Be Business Minded → Executive officers conduct the orchstra.
 
 Skill Matrix (on-the-job)
-Skill                                         Total → New + Old
-Design Patterns                               20 → 15 + 5
-Microservices                                 10 → 9 + 1
-Amazon Web Services                           15 → 9 + 6
+Skill
+Total → New + Old
+Design Patterns
+20 → 15 + 5
+Microservices
+10 → 9 + 1
+Amazon Web Services
+15 → 9 + 6
 Spring Boot
-(REST, SOAP)                                  4 → 3 + 1
-Test Driven Development                       20 → 15 + 5
-Behavior Driven Design                        2 → 2 + 0
-Document Driven Design                        10 → 8 + 2
+(REST, SOAP)
+4 → 3 + 1
+Test Driven Development
+20 → 15 + 5
+Behavior Driven Design
+2 → 2 + 0
+Document Driven Design
+10 → 8 + 2
 Unit Testing
-(Junit, Mockito, Gerkin, Cucumber, Wiremock)  20 → 15 + 5
-Postman, Curl, Httpie, `jq`                   15 → 12 + 3
-Github, Bitbucket                             15 → 12 + 3
-Nexus, Artifactory                            15 → 12 + 3
-Single Sign-On                                4 → 2 + 2
+(Junit, Mockito, Gerkin, Cucumber, Wiremock)
+20 → 15 + 5
+Postman, Curl, Httpie, `jq`
+15 → 12 + 3
+Github, Bitbucket
+15 → 12 + 3
+Nexus, Artifactory
+15 → 12 + 3
+Single Sign-On
+4 → 2 + 2
 Open Source Gateway Initiative
-(OSGi)                                        3 → 2 + 1
-Reactive eXtensions                           10 → 8 + 2
-Network Bulkheads                             10 → 8 + 2
-JSON, YAML, XML                               20 → 15 + 5
-JEE / J2EE                                    20 → 15 + 5
+(OSGi)
+3 → 2 + 1
+Reactive eXtensions
+10 → 8 + 2
+Network Bulkheads
+10 → 8 + 2
+JSON, YAML, XML
+20 → 15 + 5
+JEE / J2EE
+20 → 15 + 5
 Relational Database / SQL
-(Oracle, PostgreSQL, Maria/MySQL)             25 → 15 + 5
+(Oracle, PostgreSQL, Maria/MySQL)
+25 → 15 + 5
 NoSQL
-(Cassandra, Mongo)                            10 → 8 + 2
+(Cassandra, Mongo)
+10 → 8 + 2
 Messaging
-(SQS, Rabbit, Active-MQ)                      20 → 15 + 5
+(SQS, Rabbit, Active-MQ)
+20 → 15 + 5
 Encryption
-(OAuth, H2-MAC, NTRU, XOR)                    20 → 15 + 5
+(OAuth, H2-MAC, NTRU, XOR)
+20 → 15 + 5
 TCP, UDP, Networking
-(Wireshark, TCP Buffer)                       21 → 20 + 1
+(Wireshark, TCP Buffer)
+21 → 20 + 1
 RPC
-(Finagle, Protobuf, RMI, CORBA)               20 → 15 + 5
-Kotlin                                        7 → 6 + 1
-Scala                                         3 → 3 + 0
-Java 11+                                      6 → 5 + 1
-Java 8                                        10 → 8 + 2
-Java pre-8                                    15 → 12 + 3
+(Finagle, Protobuf, RMI, CORBA)
+20 → 15 + 5
+Kotlin
+7 → 6 + 1
+Scala
+3 → 3 + 0
+Java 11+
+6 → 5 + 1
+Java 8
+10 → 8 + 2
+Java pre-8
+15 → 12 + 3
 IOS
-(Objective C)                                 1 → 1 + 0
-Adroid                                        1 → 1 + 0
-ECMA Script, Javascript                       20 → 15 + 5
-Unix, Linux                                   30 → 5 + 25
-Amber, Bash, Zsh, Tmux, Mosh                  20 → 12 + 8
-Git, Svn, Mercurial, CVS, SSCS                20
+(Objective C)
+1 → 1 + 0
+Android
+1 → 1 + 0
+ECMA Script, Javascript
+20 → 15 + 5
+Unix, Linux
+30 → 5 + 25
+Amber, Bash, Zsh, Tmux, Mosh
+20 → 12 + 8
+Git, Svn, Mercurial, CVS, SSCS
+20
 Agile, Scaled Agile, UP, RAP
-(UML)                                         15
-Jenkins, Bamboo, Pipelines                    12
+(UML)
+15
+Jenkins, Bamboo, Pipelines
+12
 Atlassian Tools
-(Jira, Confluence)                            12
+(Jira, Confluence)
+12
 
 Behavior / Personality
     • Humble
