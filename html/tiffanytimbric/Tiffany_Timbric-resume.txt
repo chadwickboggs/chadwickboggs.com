@@ -1,10 +1,10 @@
 ﻿Tiffany Timbric (tiffany.timbric@gmail.com)
 Enterprise Backend Software Developer (computer programmer / code author)
 
-Senior enterprise backend software developer passionate about code, both functional and imperative: I write mission-critical system backends across many domains, financial, transportation, telecommunications, e-commerce, defense, etc.  I started at Sun Microsystems, Inc. assisting their top clients in implementation of JEE patterns with code quality.  More recently I used AWS, Serverless, Spring, Network Bulkheads, Java Optional’s, Reactive eXtensions, NoSQL to design and author reliable Java systems deployed on AWS.
+Senior enterprise backend software developer passionate about code, both functional and imperative: I write mission-critical system backends across many domains, financial, transportation, telecommunications, e-commerce, defense, etc.  I started at Sun Microsystems, Inc. assisting their top clients in implementation of JEE patterns with code quality.  More recently I used AWS, Serverless, Spring, Network Bulkheads, Java Optional, Reactive eXtensions, NoSQL to design and author reliable Java systems deployed on AWS.
 
 Skills / Experience
-Java, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, JSON), AWS (S3, SQS, Lambda, Pipelines, EC2), Reactive eXtensions (RxJava), Bulkheads (Hystrix), JEE Design Patterns, Microservices, ETL, SQL (Oracle, PostgreSQL, Maria/MySQL), NoSQL (Cassandra, Mongo), Messaging (JMS, SQS, Rabbit, Active MQ), TDD (JUnit, Mockito, Wiremock, Gerkin, Cucumber), Encryption (SSH, H2-MAC, NTRU, XOR), RPC TCP UDP Networking (Wireshark, Protobuf, Finagle, Wireshark, RMI, CORBA), Git, BDD, DDD, GitHub, Bitbucket, Nexus, Artifactory, Multi-factory Auth (OAUTH), Single Sign-On, OSGi, Jenkins, Bamboo, Atlassian Tools, …
+Java, Kotlin, Scala, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, JSON), AWS (S3, SQS, Lambda, Pipelines, EC2), Reactive eXtensions (RxJava), Bulkheads (Hystrix), JEE Design Patterns, Microservices, ETL, SQL (Oracle, PostgreSQL, Maria/MySQL), NoSQL (Cassandra, Mongo), Messaging (JMS, SQS, Rabbit, Active MQ), TDD (JUnit, Mockito, Wiremock, Gerkin, Cucumber), Encryption (SSH, H2-MAC, NTRU, XOR), RPC TCP UDP Networking (Wireshark, Protobuf, Finagle, Wireshark, RMI, CORBA), Git, BDD, DDD, GitHub, Bitbucket, Nexus, Artifactory, Multi-factory Auth (OAUTH), Single Sign-On, OSGi, Jenkins, Bamboo, Atlassian Tools, …
 
 Education, Certifications, Patents
            B.S. in Computer Science at University of Colorado, Boulder
