@@ -91,5 +91,5 @@ Code Examples
     • Spring Boot: https://github.com/chadwickboggs/xchange
 
 Profile Image
-    • Tiffany Timbric: https://tiffanytimbric.com/images/profile_image.jpg
+    • Tiffany Timbric: http://tiffanytimbric.com/images/profile_image.jpg
 

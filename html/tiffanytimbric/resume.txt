@@ -24,6 +24,7 @@ Education, Certifications, Patents
 Professional Experience
 Amtrak, Denver, CO
 2/2023 – 4/2024
+Senior Software Developer
     • Primary code author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts. Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
     • Features included the handling of and processing scale for all Amtrak customer purchases, the publishing of business metric, system metric for observability, error / failure alerting, meaningful trace, debug, info, warn, and error logging with security and PII protection.
     • Technologies included AWS (Cloud Formation, Lambda, Event Bridge, SQS, S3), immutables.org Java Beans, REST, JSON + FasterXML Jackson, HttpClient, environment specific configuration, environment variables, Java 11, Maven.
