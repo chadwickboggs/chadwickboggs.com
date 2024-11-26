@@ -169,6 +169,54 @@
 			Dear Fellow Hearts &lt;curtsy&gt;,<br>
 		<blockquote>
 <pre>
+Mature Java code exhibits the following:
+</pre>
+		<ul>
+			<li>Aggressive use of v21 features.</li>
+			<li>All methods return @Nonnull.</li>
+			<li>All methods parameters accept @Nullable.</li>
+			<li>Aggressive minimization of level of nesting of happy-path logic.</li>
+			<li>&nbsp;&nbsp;* Parameter and value check first, leaving core logic un-nested at bottom of method.</li>
+			<li>Aggressive use of Jakarta.</li>
+			<li>Aggressive use of Java streams.</li>
+			<li>Aggressive use of https://immutables.github.io instead of Lombok.</li>
+			<li>Aggressive use of Reactive eXtensions.</li>
+			<li>Aggressive use of NPE possibility avoidance by:</li>
+			<li>&nbsp;&nbsp;* Aggressive use of final.</li>
+			<li>&nbsp;&nbsp;* Aggressive use of Optional.</li>
+			<li>&nbsp;&nbsp;* Aggressive use of empty collections.</li>
+			<li>&nbsp;&nbsp;* Aggressive use of @Nullable, @Nonnull.</li>
+		</ul>
+<pre>
+Soon virtual thread will have proven themselves.  Until then, Reactive
+eXtensions and Optional to Java Steam are acceptable.  Java Streams and
+Reactive eXentions obfuscate code by scattering logic across operator
+methods.  Virtual threads fully utilize hardware while reducing native
+threads in a way which keeps logic consolidated, readable ...thereby
+more maintainable.
+
+I am sure there are other tidbits, like Reactive Sockets (rsocket) which
+are great, but the above list is essential given Java's now significant
+age (meaning inherent flaws over non-imperative functional languages
+like Scala (in my experience).)
+
+There are many ways to give @Nonnullruntime behavior causing it to throw
+an IllegalArgumentException with a nice message instead of allowing
+random code to execute with non-considered null values which thereby can
+cause data corruption and unpredictable behavior.
+</pre>
+		</blockquote>
+		<br><p>
+		Love and Kisses &lt;curtsy&gt;,<br>
+		<br>
+		Tiffany Timbric.<br>
+
+		<hr noshade size=1>
+		<p>11/26/2024</p>
+		<p>
+			Dear Fellow Hearts &lt;curtsy&gt;,<br>
+		<blockquote>
+<pre>
 I am pro life:  Love, compassion is truth.  "We" are, evrery life a
 miracle.  Gratitude, not optional, mandatory.  Dignity, not optional,
 mandatory.
