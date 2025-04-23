@@ -8,7 +8,7 @@ Java, Kotlin, Scala, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, 
 
 Software Architecture
     • The C4 Model – Context, Containers, Components, Code: https://c4model.com
-    • Hexagonal Architecture – In Adapter | In Port → Service → Out Port | Out Adapter: https://.../hexagonal-architecture
+    • Hexagonal Architecture – In Adapter | In Port → Service → Out Port | Out Adapter
 
 Code Examples
     • Finite State Machine: https://github.com/chadwickboggs/fsm
@@ -29,7 +29,7 @@ Marriott International, Denver, CO
 12/2023 – 4/2025
 Senior Software Developer
     • Platform Core team member.  Author of their Universal StarterKit exhibiting hexagonal architecture, and their streaming REST client.
-    • Features included the handling of and processing scale for all Amtrak customer purchases, the publishing of business metric, system metric for observability, error / failure alerting, meaningful trace, debug, info, warn, and error logging with security and PII protection.
+    • Features included Reactive eXtensions, REST and command-line inbound adapters, REST, JPA, r2dbc Spring Data, JSON serialization/deserialization, filesystem storage, and other outbound adapters.
     • Technologies included AWS S3, Kubernetes, Lombok, immutables.org, REST, JSON + FasterXML Jackson, HttpClient, Java 21, Junit, Maven.
 
 Amtrak, Denver, CO
