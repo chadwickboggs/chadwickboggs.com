@@ -8,6 +8,7 @@ Java, Kotlin, Scala, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, 
 
 Software Architecture
     • The C4 Model – Context, Containers, Components, Code: https://c4model.com
+    • Hexagonal Architecture – In Adapter | In Port → Service → Out Port | Out Adapter: https://.../hexagonal-architecture
 
 Code Examples
     • Finite State Machine: https://github.com/chadwickboggs/fsm
@@ -16,16 +17,25 @@ Code Examples
 
 Education, Certifications, Patents
     • Bachelor of Science, Computer Science, University of Colorado, 1998
+    • Electrical Engineering, U.S.M.A. at West Point (attended)
     • Sun Certified Java Developer, Sun Certified Java Programmer
     • AWS Certified Developer (in progress)
     • Patent: #6907423 (Search engine interface and method of controlling client searches)
-    • Electrical Engineering, U.S.M.A. at West Point (attended)
+
 
 Professional Experience
+
+Marriott International, Denver, CO
+12/2023 – 4/2025
+Senior Software Developer
+    • Platform Core team member.  Author of their Universal StarterKit exhibiting hexagonal architecture, and their streaming REST client.
+    • Features included the handling of and processing scale for all Amtrak customer purchases, the publishing of business metric, system metric for observability, error / failure alerting, meaningful trace, debug, info, warn, and error logging with security and PII protection.
+    • Technologies included AWS S3, Kubernetes, Lombok, immutables.org, REST, JSON + FasterXML Jackson, HttpClient, Java 21, Junit, Maven.
+
 Amtrak, Denver, CO
 2/2023 – 4/2024
 Senior Software Developer
-    • Primary code author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts. Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
+    • Primary code / author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts. Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
     • Features included the handling of and processing scale for all Amtrak customer purchases, the publishing of business metric, system metric for observability, error / failure alerting, meaningful trace, debug, info, warn, and error logging with security and PII protection.
     • Technologies included AWS (Cloud Formation, Lambda, Event Bridge, SQS, S3), immutables.org Java Beans, REST, JSON + FasterXML Jackson, HttpClient, environment specific configuration, environment variables, Java 11, Maven.
 
