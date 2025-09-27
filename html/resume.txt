@@ -1,10 +1,10 @@
 ﻿Chadwick Timbric (chadwick.timbric@gmail.com)
 Enterprise Backend Software Developer (computer programmer / code author)
 
-Senior enterprise backend software developer passionate about code, both functional and imperative: I write mission-critical system backends across many domains, financial, transportation, telecommunications, e-commerce, defense, etc.  I started at Sun Microsystems, Inc. assisting their top clients in implementation of JEE patterns with code quality.  More recently I used AWS, Serverless, Spring, Network Bulkheads, Java Optional, Reactive eXtensions, NoSQL to design and author reliable Java systems deployed on AWS.
+Senior enterprise backend software developer passionate about code, both functional and imperative: I write mission-critical system backends across many domains, financial, transportation, telecommunications, e-commerce, defense, etc. I started at Sun Microsystems, Inc. assisting their top clients in implementation of JEE patterns with code quality. More recently I used AWS, Serverless, Spring, Network Bulkheads, Java Optional, Reactive eXtensions, NoSQL to design and author reliable Java systems deployed on AWS.
 
 Skills / Experience
-Java, Kotlin, Scala, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, JSON), AWS (S3, SQS, Lambda, Pipelines, EC2), Reactive eXtensions (RxJava), Bulkheads (Hystrix), JEE Design Patterns, Microservices, ETL, SQL (Oracle, PostgreSQL, Maria/MySQL), NoSQL (Cassandra, Mongo), Messaging (JMS, SQS, Rabbit, Active MQ), TDD (JUnit, Mockito, Wiremock, Gerkin, Cucumber), Encryption (SSH, H2-MAC, NTRU, XOR), RPC TCP UDP Networking (Wireshark, Protobuf, Finagle, Wireshark, RMI, CORBA), Git, BDD, DDD, GitHub, Bitbucket, Nexus, Artifactory, Multi-factory Auth (OAUTH), Single Sign-On, OSGi, Jenkins, Bamboo, Atlassian Tools, …
+Java, Kotlin, Scala, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, JSON), AWS (S3, SQS, Lambda, Pipelines, EC2), Reactive eXtensions (RxJava), Bulkheads (Hystrix), JEE Design Patterns, Microservices, ETL, SQL (Oracle, PostgreSQL, Maria/MySQL), NoSQL (Cassandra, MongoDB), Messaging (Kafka, JMS, SQS, Rabbit, Active MQ), TDD (JUnit, Mockito, Wiremock, Gerkin, Cucumber), Encryption (SSH, H2-MAC, NTRU, XOR), RPC TCP UDP Networking (Wireshark, Protobuf, gRPC, Redis, Finagle, Wireshark, RMI, CORBA), Git, BDD, DDD, GitHub, Bitbucket, Nexus, Artifactory, Multi-factor Auth (OAUTH), Single Sign On, OSGi, Jenkins, Bamboo, Atlassian Tools, …
 
 Education, Certifications, Patents
         ◦ B.S. in Computer Science at University of Colorado, Boulder
@@ -14,6 +14,21 @@ Education, Certifications, Patents
         ◦ USMA at West Point (attended)
 
 Professional Experience
+12/2023 – 10/2025 Marriott International, Denver, CO
+Senior Software Developer
+    • Platform Core team member.  Author of their Universal StarterKit application generator:
+        ◦ Inbound Adapters: REST, Kakfa Subcriber, GraphQL, gRPC
+        ◦ Outbound Adapters: REST, Streaming REST, Kakfa Publisher, GraphQL, Elasticache (Redis), MongoDB, PostgreSQL
+    • Author their Hexagonal Architecture Sample Application.
+    • Author of their Platform Cache Library:
+        ◦ Strategies: Cache-Aside, Read-Through, Write-Around, Write-Back, Write-Through
+        ◦ Eviction Policies: LRU, LFU, TTL
+        ◦ Levels: 1 (memory), 2 (remote/distributed)
+        ◦ Providers: Memory, Redis
+    • Author of their Streaming REST Client Platform Library – Unlimited transfer size.
+    • Features: Reactive eXtensions, REST and command-line inbound adapters, REST, JPA, r2dbc Spring Data, JSON serialization/deserialization, filesystem storage, and other outbound adapters.
+    • Technologies: AWS S3, Kubernetes, Lombok, immutables.org, REST, JSON + FasterXML Jackson, HttpClient, Java 21, Junit, Maven.
+
 2/2023 – 4/2024 Software Developer, Amtrak (consulting)
     • Primary code author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts.  Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
     • Features included the handling of and processing scale for all Amtrak customer purchases, the publishing of business metric, system metric for observability, error / failure alerting, meaningful trace, debug, info, warn, and error logging with security and PII protection.
