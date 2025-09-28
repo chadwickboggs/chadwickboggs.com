@@ -14,7 +14,7 @@ Education, Certifications, Patents
         ◦ USMA at West Point (attended)
 
 Professional Experience
-12/2023 – 10/2025 Marriott International, Denver, CO
+12/2024 – 10/2025 Marriott International, Denver, CO
 Senior Software Developer
     • Platform Core team member.  Author of their Universal StarterKit application generator:
         ◦ Inbound Adapters: REST, Kakfa Subcriber, GraphQL, gRPC

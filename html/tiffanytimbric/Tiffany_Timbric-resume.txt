@@ -26,7 +26,7 @@ Education, Certifications, Patents
 Professional Experience
 
 Marriott International, Denver, CO
-12/2023 – 10/2025
+12/2024 – 10/2025
 Senior Software Developer
     • Platform Core team member.  Author of their Universal StarterKit application generator:
         ◦ Inbound Adapters: REST, Kakfa Subcriber, GraphQL, gRPC
