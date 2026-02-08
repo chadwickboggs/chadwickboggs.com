@@ -7,7 +7,7 @@ Skills / Experience
 Java, Kotlin, Scala, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, JSON), AWS (S3, SQS, Lambda, Pipelines, EC2), Reactive eXtensions (RxJava), Bulkheads (Hystrix), JEE Design Patterns, Microservices, ETL, SQL (Oracle, PostgreSQL, Maria/MySQL), NoSQL (Cassandra, MongoDB), Messaging (Kafka, JMS, SQS, Rabbit, Active MQ), TDD (JUnit, Mockito, Wiremock, Gerkin, Cucumber), Encryption (SSH, H2-MAC, NTRU, XOR), RPC TCP UDP Networking (Wireshark, Protobuf, gRPC, Redis, Finagle, Wireshark, RMI, CORBA), Git, BDD, DDD, GitHub, Bitbucket, Nexus, Artifactory, Multi-factor Auth (OAUTH), Single Sign On, OSGi, Jenkins, Bamboo, Atlassian Tools, …
 
 Software Architecture
-    • The C4 Model – Context, Containers, Components, Code: https://c4model.com
+    • Enterprise Architecture – Modeling & Design: https://sparxsystems.com
     • Hexagonal Architecture – In Adapters → In Ports | Service → Out Port | Out Adapters
 
 Code Examples
