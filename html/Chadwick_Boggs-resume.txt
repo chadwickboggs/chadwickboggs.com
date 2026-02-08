@@ -98,7 +98,7 @@ Senior Software Developer
         ◦ Improved the performance of our custom pseudo-recursive-descent parser template engine by adding caching of parser results and by altering the parsing algorithm.
 
 Software Architecture
-    • The C4 Model – Context, Containers, Components, Code: https://c4model.com
+    • Enterprise Architecture – Modeling & Design: https://sparxsystems.com
 
 Code Examples
     • Finite State Machine: https://github.com/chadwickboggs/fsm

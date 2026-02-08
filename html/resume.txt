@@ -1,32 +1,20 @@
-﻿Tiffany Timbric
-Broomfield, Colorado 80023
-Summary
+﻿Chadwick Timbric (chadwick.timbric@gmail.com)
+Enterprise Backend Software Developer (computer programmer / code author)
+
 Senior enterprise backend software developer passionate about code, both functional and imperative: I write mission-critical system backends across many domains, financial, transportation, telecommunications, e-commerce, defense, etc. I started at Sun Microsystems, Inc. assisting their top clients in implementation of JEE patterns with code quality. More recently I used AWS, Serverless, Spring, Network Bulkheads, Java Optional, Reactive eXtensions, NoSQL to design and author reliable Java systems deployed on AWS.
 
 Skills / Experience
 Java, Kotlin, Scala, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, JSON), AWS (S3, SQS, Lambda, Pipelines, EC2), Reactive eXtensions (RxJava), Bulkheads (Hystrix), JEE Design Patterns, Microservices, ETL, SQL (Oracle, PostgreSQL, Maria/MySQL), NoSQL (Cassandra, MongoDB), Messaging (Kafka, JMS, SQS, Rabbit, Active MQ), TDD (JUnit, Mockito, Wiremock, Gerkin, Cucumber), Encryption (SSH, H2-MAC, NTRU, XOR), RPC TCP UDP Networking (Wireshark, Protobuf, gRPC, Redis, Finagle, Wireshark, RMI, CORBA), Git, BDD, DDD, GitHub, Bitbucket, Nexus, Artifactory, Multi-factor Auth (OAUTH), Single Sign On, OSGi, Jenkins, Bamboo, Atlassian Tools, …
 
-Software Architecture
-    • The C4 Model – Context, Containers, Components, Code: https://c4model.com
-    • Hexagonal Architecture – In Adapters → In Ports | Service → Out Port | Out Adapters
-
-Code Examples
-    • Finite State Machine: https://github.com/chadwickboggs/fsm
-    • Cryptography: https://github.com/chadwickboggs/crypto
-    • Spring Boot: https://github.com/chadwickboggs/xchange
-
 Education, Certifications, Patents
-    • Bachelor of Science, Computer Science, University of Colorado, 1998
-    • Electrical Engineering, U.S.M.A. at West Point (attended)
-    • Sun Certified Java Developer, Sun Certified Java Programmer
-    • AWS Certified Developer (in progress)
-    • Patent: #6907423 (Search engine interface and method of controlling client searches)
-
+        ◦ B.S. in Computer Science at University of Colorado, Boulder
+        ◦ Sun Certified Java Developer, Sun Certified Java Programmer
+        ◦ AWS Certified Developer (in progress)
+        ◦ Patent: #6907423 (Search engine interface and method of controlling client searches)
+        ◦ USMA at West Point (attended)
 
 Professional Experience
-
-Marriott International, Denver, CO
-12/2024 – 10/2025
+12/2024 – 10/2025 Marriott International, Denver, CO
 Senior Software Developer
     • Platform Core team member.  Author of their Universal StarterKit application generator:
         ◦ Inbound Adapters: REST, Kakfa Subcriber, GraphQL, gRPC
@@ -41,106 +29,82 @@ Senior Software Developer
     • Features: Reactive eXtensions, REST and command-line inbound adapters, REST, JPA, r2dbc Spring Data, JSON serialization/deserialization, filesystem storage, and other outbound adapters.
     • Technologies: AWS S3, Kubernetes, Lombok, immutables.org, REST, JSON + FasterXML Jackson, HttpClient, Java 21, Junit, Maven.
 
-Amtrak, Denver, CO
-2/2023 – 4/2024
-Senior Software Developer
-    • Primary code / author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts. Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
+2/2023 – 4/2024 Software Developer, Amtrak (consulting)
+    • Primary code author (30k+ lines of code) of their AWS rewrite of their entire outbound email system for customer purchases including trip information and sales receipts.  Sales receipts and trip information listings for all Amtrak trips, with add-ons, and purchase types, across all Amtrak stations, passenger classes, and third-party carriers.
     • Features included the handling of and processing scale for all Amtrak customer purchases, the publishing of business metric, system metric for observability, error / failure alerting, meaningful trace, debug, info, warn, and error logging with security and PII protection.
-    • Technologies included AWS (Cloud Formation, Lambda, Event Bridge, SQS, S3), immutables.org Java Beans, REST, JSON + FasterXML Jackson, HttpClient, environment specific configuration, environment variables, Java 11, Maven.
+    • Technolgies included AWS (Cloud Formation, Lambda, Event Bridge, SQS, S3), Immutables.org Java Beans, REST, JSON + FasterXML Jackson, HttpClient, environment specific configuration, environment variables, Java 11, Maven.
 
-GHX, Louisville, CO
-6/2022 – 1/2023
-Senior Software Engineer
+6/2022 – 1/2023 Senior Software Engineer, Global Healthcare Exchange (GHX)
     • Lead team authoring software connecting hospital ERP and medical equipment purchasing systems to GHX.
     • Used AWS EC2, SQS, S3, and Lambdas, Java, Oracle.
     • Web Services, FTP, sFTP, HTTP(S), JSON serialization/deserialization, SQL.
-    • Deployed in 100’s of customer data centers, two-week release cadence w/ prod deploys.
+    • Deployed in 100’s of customer data centers, two week release cadence w/ prod deploy.
 
-
-PayPal, Denver, CO
-2/2020 – 5/2022
-Software Developer
+2/2020 – 5/2022 Software Developer, PayPal w/ TCS (consulting)
     • Implemented direct deposit signup services in Spring Boot.
     • Implemented account bank migrations, bank change, for all PayPal accounts in Spring Batch.
     • Maintained and implemented feature enhancements to a batch merchant report generation system.
 
-Arris/Commscope, Denver, CO
-1/2019 – 10/2019
-Software Engineer
-    • Updated the video catalog and merchandising backend originally authored by Motorola for Bouygues Telecom, France.
-    • Used Java EE, WildFly, GlassFish, WebSphere, REST, Wiremock, Mockito, Postman, Wireshark.
+1/2019 – 10/2019 Software Engineer, Arris/Commscope (consulting)
+        ◦ Updated the video catalog and merchandising backend originally authored by Motorola for Bouygues Telecom, France.
+        ◦ Java EE, WildFly, GlassFish, WebSphere, REST, Wiremock, Mockito, Postman, Wireshark.
 
-Comcast, Corp., Denver CO
-1/2018 – 4/2018
-Software Engineer
-    • Updated one Java system to Docker/Kubernetes, Java 11, Cucumber, Reactive Extensions, Git.
+1/2018 – 4/2018 Software Engineer, Comcast, Corp. (consulting)
+        ◦ Updated one Java system to Docker/Kubernetes, Java 11, Cucumber, Reactive Extensions, Git.
 
-Charter Communications, Denver, CO
-1/2016 – 12/2017
-Software Engineer,
-    • Maintained 100+ Java micro-services, added new micro-services all in Amazon Web Services.
-    • Used Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring.
+1/2016 – 12/2017 Software Engineer, Charter Communications. (consulting)
+        ◦ Maintained 100+ Java micro-services, added new micro-services all in Amazon Web Services.
+        ◦ Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring.
 
-Comcast, Corp., Denver, CO
-9/2014 – 2/2015
-Software Engineer,
-    • Designed and built “RxJDBC,” a Reactive Extension, RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
+9/2014 – 2/2015 Software Engineer, Comcast, Corp. (consulting)
+        ◦ Designed and built “RxJDBC,” a Reactive Extension, RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
 
-Tendril, Inc., Boulder, CO
-2/2014 – 5/2014
-Software Engineer
-    • Back-end dev-ops programmer on SOA Finagle+Protobuf+Cloud Java/Scala micro-services.
-    • Used Atlassian, Cucumber BDD, PostgreSQL, Hadoop, Hibernate, Scala, Intelli-J IDEA, Git.
+2/2014 – 5/2014 Software Engineer, Tendril, Inc.
+        ◦ Back-end dev-ops programmer on SOA Finagle+Protobuf+Cloud Java/Scala micro-services.
+        ◦ Atlassian, Cucumber BDD, PostgreSQL, Hadoop, Hibernate, Scala, Intelli-J IDEA, Git.
 
-JDA Software Group, Inc. Denver, CO
-2/2010 – 12/2013
-Senior Software Engineer
-    • Project Lead for integration of iOS, Android mobile task system with legacy web-based system 
-    • Tasks roughly is E-mail messages enhanced for distributing and tracking business actions. 
-    • Customers include Fortune-500 companies. Scalability, performance was significant. 
-    • Technologies: OSGi, Gradle, Git, and SQL Server, Git, Mercurial, Subversion, CVS. 
-    • Extended and maintained legacy J2EE web-based task management system.
+2/2010 – 12/2013 Senior Software Engineer, JDA Software Group, Inc.
+        ◦ Project Lead for integration of iOS, Android mobile task system with legacy web-based system
+        ◦ Tasks roughly are E-mail messages enhanced for distributing and tracking business actions.
+        ◦ Customers included Fortune-500 companies. Scalability, performance were significant.
+        ◦ Technologies: OSGi, Gradle, Git, and Sql Server, Git, Mercurial, Subversion, CVS.
+        ◦ Extended and maintained legacy J2EE web-based task management system.
 
-Independent Consultant, Denver, CO
-1/2008 – 12/2009
-Software Developer
-    • Extended and maintained a JEE merchandise inventory system 
-    • Used MySQL DB, Java, Spring.
-    • Customers included Bell South, e-Bay, Frontier Airlines, AmDocs, Etilize, Skyway
+1/2008 – 12/2009 Independent Software Development Consultant
+        ◦ Extended and maintained a JEE merchandise inventory system with MySQL DB, Java, Spring.
+        ◦ Customers: AmDocs, Etilize, Bell South, eBay, Frontier Airlines, Skyway
 
-Evolution Hosting, Inc. Louisville, CO
-2/2007 – 12/2007
-Chief Operation Officer
-    • Viasest data center Linux servers for J2EE applications with Java management software.
-    • Customers included Crocks, Wells Fargo, Hunter Douglass, among others.
-    • Used J2EE, Linux, VMware, Xen (Linux virtual machines), Amazon Web Services, MySQL
+2/2007 – 12/2007 Chief Operation Officer, Evolution Hosting, Inc.
+        ◦ Viawest data center Linux servers for J2EE applications with Java management software, Java, Linux, VMware, Zen, Amazon Web Services.
+        ◦ Large number of customers including Crocks, Wells Fargo, and Hunter Douglass, among others.
 
-Independent Consultant, Denver, CO 
-2/2004 – 1/2007
-Software Developer
-    • Created NIO client with could reach 100 Mb/s scale message rates.
-    • Created new web sites, Java.
-    • Consulted at eBay, Frontier Airlines, Bell South, Skyway representing Sun Microsystems, Inc.
+2/2004 – 1/2007 Independent Software Development Consultant
+        ◦ Created NIO client with could reach 100 Mb/s scale message rates.
+        ◦ Created new web sites, Java.
+        ◦ Consulted at eBay, Frontier Airlines, Bell South, Skyway representing Sun Microsystems, Inc.
 
+2/2002 – 2/2004 Senior Software Architect, Packexpo, Inc.
+        ◦ Created a reporting systems for packaging advertising services.
+        ◦ Maintained packaging advertising web site.
+        ◦ Technologies: JBoss, Linux, MySQL, Intelli-J, BeanShell, JSP, Lzop'ed data stream for large DB backups over NFS mounts, Java, Groovy.
 
-Packexpo, Inc. Fairfax, VA
-2/2002 – 2/2004
-Software Architect
-    • Created a reporting system for packaging advertising services.
-    • Maintained packaging advertising web site.
-    • Technologies: J-Boss, Linux, MySQL, Intelli-J, BeanShell, JSP, Lzop'ed data stream for large DB backups over NFS mounts, Java, Groovy.
+2/1999 – 1/2002 Java Consulting, Sun Java Center, Sun Microsystems, Inc.
+        ◦ Represented Sun for RUP, UP, SunTone, OOA&D mentoring and J2EE coding, Java, SCCS, Teamware, RCS, Solaris, Java.
+        ◦ Consulted at Citigroup, Vanguard Fiduciary Trust, Credit Suisse.
+        ◦ Performed an Architecture Assessment recommending SOA and JEE which later was followed as advised.
 
-Sun Microsystems, Inc. Broomfield, CO
-2/1999 – 1/2002
-Java Consulting,
-    • Represented Sun for RUP, UP, SunTone, OOA&D mentoring and J2EE coding, Java, SCCS, Teamware, RCS, Solaris, Java.
-    • Consulted at Citigroup, Vanguard Fiduciary Trust, Credit Suisse.
-    • Performed an Architecture Assessment recommending SOA and JEE which later was followed as advised.
+4/1998 – 1/1999 Java Developer, Sun Microsystems, Inc.
+        ◦ Created web-based and Swing computer assisted training systems.
+        ◦ Improved the performance of our custom pseudo-recursive-descent parser template engine by adding caching of parser results and by altering the parsing algorithm.
 
-Sun Microsystems, Inc. Broomfield, CO
-4/1998 – 1/1999
-Java Developer
-    • Created web-based and Swing computer assisted training systems.
-    • Improved the performance of our custom pseudo-recursive-descent parser template engine by adding caching of parser 
-    • results and by altering the parsing algorithm.
+Software Architecture
+    • Enterprise Architecture – Modeling & Design: https://sparxsystems.com
+
+Code Examples
+    • Finite State Machine: https://github.com/chadwickboggs/fsm
+    • Cryptography: https://github.com/chadwickboggs/crypto
+    • Spring Boot: https://github.com/chadwickboggs/xchange
+
+Profile Image
+    • Tiffany Timbric: http://tiffanytimbric.com/images/profile_image.jpg
 
