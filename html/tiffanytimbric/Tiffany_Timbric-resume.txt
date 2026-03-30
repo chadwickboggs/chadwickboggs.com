@@ -1,10 +1,10 @@
 ﻿Tiffany Timbric
-Broomfield, Colorado 80023
+Westminster, Colorado 80023
 Summary
 Senior enterprise backend software developer passionate about code, both functional and imperative: I write mission-critical system backends across many domains, financial, transportation, telecommunications, e-commerce, defense, etc. I started at Sun Microsystems, Inc. assisting their top clients in implementation of JEE patterns with code quality. More recently I used AWS, Serverless, Spring, Network Bulkheads, Java Optional, Reactive eXtensions, NoSQL to design and author reliable Java systems deployed on AWS.
 
 Skills / Experience
-Java, Kotlin, Scala, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, JSON), AWS (S3, SQS, Lambda, Pipelines, EC2), Reactive eXtensions (RxJava), Bulkheads (Hystrix), JEE Design Patterns, Microservices, ETL, SQL (Oracle, PostgreSQL, Maria/MySQL), NoSQL (Cassandra, MongoDB), Messaging (Kafka, JMS, SQS, Rabbit, Active MQ), TDD (JUnit, Mockito, Wiremock, Gerkin, Cucumber), Encryption (SSH, H2-MAC, NTRU, XOR), RPC TCP UDP Networking (Wireshark, Protobuf, gRPC, Redis, Finagle, Wireshark, RMI, CORBA), Git, BDD, DDD, GitHub, Bitbucket, Nexus, Artifactory, Multi-factor Auth (OAUTH), Single Sign On, OSGi, Jenkins, Bamboo, Atlassian Tools, …
+Java [30 yrs], Kotlin, Scala, Bash + Linux (Postman, Curl, jq, tmux), Spring Boot (REST, JSON), AWS [15 yrs] (S3, SQS, Lambda, Pipelines, EC2), Reactive eXtensions (RxJava), Bulkheads (Hystrix), JEE Design Patterns, Microservices, ETL, SQL (Oracle, PostgreSQL, Maria/MySQL), NoSQL (Cassandra, MongoDB), Messaging (Kafka, JMS, SQS, Rabbit, Active MQ), TDD (JUnit, Mockito, Wiremock, Gerkin, Cucumber), Encryption (SSH, H2-MAC, NTRU, XOR), RPC TCP UDP Networking (Wireshark, Protobuf, gRPC, Redis, Finagle, Wireshark, RMI, CORBA), Git, BDD, DDD, GitHub, Bitbucket, Nexus, Artifactory, Multi-factor Auth (OAUTH), Single Sign On, OSGi, Gitlab, Jenkins, Bamboo, Atlassian Tools, …
 
 Software Architecture
     • Enterprise Architecture – Modeling & Design: https://sparxsystems.com
@@ -77,13 +77,13 @@ Software Engineer
 
 Charter Communications, Denver, CO
 1/2016 – 12/2017
-Software Engineer,
+Software Engineer
     • Maintained 100+ Java micro-services, added new micro-services all in Amazon Web Services.
     • Used Linux, Netflix OSS, Cassandra NoSQL, Reactive Extensions, Java 8, SQS, SNS, S3, EC2, Active MQ, Mongo, Git, Spring.
 
 Comcast, Corp., Denver, CO
 9/2014 – 2/2015
-Software Engineer,
+Software Engineer
     • Designed and built “RxJDBC,” a Reactive Extension, RabbitMQ Message Oriented Middleware (MOM) front to an Oracle database as part of the Resiliency Project, Java, Git.
 
 Tendril, Inc., Boulder, CO
@@ -132,7 +132,7 @@ Software Architect
 
 Sun Microsystems, Inc. Broomfield, CO
 2/1999 – 1/2002
-Java Consulting,
+Java Consulting
     • Represented Sun for RUP, UP, SunTone, OOA&D mentoring and J2EE coding, Java, SCCS, Teamware, RCS, Solaris, Java.
     • Consulted at Citigroup, Vanguard Fiduciary Trust, Credit Suisse.
     • Performed an Architecture Assessment recommending SOA and JEE which later was followed as advised.
